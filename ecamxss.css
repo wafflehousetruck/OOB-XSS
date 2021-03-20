@@ -1,6 +1,2 @@
 @keyframes gay{from{max-height:500px;padding-top:16px;padding-bottom:16px}to{max-height:0;padding-top:0;padding-bottom:0}}.containerPortal::before{display:block;color:#c20000;font-size:1.1em;content:"\26A0  OFFICIAL ALERT from President Gee: \2800\2800you\0000A0are\0000A0gay";background-color:#ff4;padding:16px;margin:8px;font-weight:600;animation:.3s linear;animation-name:gay;overflow:hidden;animation-play-state:running;animation-iteration-count:1;animation-delay:2s;animation-fill-mode:forwards}.courseListing:not(.coursefakeclass){display:none}
-.courseListing a {
-background: linear-gradient(90deg, red, orange, green, blue, indigo, violet);
-background-clip: text;
-color: rgba(0, 0, 0, 0);
-}
+
